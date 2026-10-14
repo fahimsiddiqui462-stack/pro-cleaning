@@ -1,0 +1,110 @@
+[
+  {
+    "file": "hero.png",
+    "before": 1207655,
+    "after": 1021278,
+    "identical_pixels": true
+  },
+  {
+    "file": "Image (1).png",
+    "before": 193069,
+    "after": 185571,
+    "identical_pixels": true
+  },
+  {
+    "file": "Image (2).png",
+    "before": 170335,
+    "after": 162288,
+    "identical_pixels": true
+  },
+  {
+    "file": "Image (3).png",
+    "before": 303642,
+    "after": 287251,
+    "identical_pixels": true
+  },
+  {
+    "file": "Image (4).png",
+    "before": 108839,
+    "after": 97811,
+    "identical_pixels": true
+  },
+  {
+    "file": "Image (5).png",
+    "before": 205194,
+    "after": 198467,
+    "identical_pixels": true
+  },
+  {
+    "file": "Image (6).png",
+    "before": 114646,
+    "after": 102327,
+    "identical_pixels": true
+  },
+  {
+    "file": "Image (7).png",
+    "before": 183526,
+    "after": 175360,
+    "identical_pixels": true
+  },
+  {
+    "file": "Image (8).png",
+    "before": 7218713,
+    "after": 7218713,
+    "identical_pixels": true
+  },
+  {
+    "file": "Image (9).png",
+    "before": 195302,
+    "after": 186592,
+    "identical_pixels": true
+  },
+  {
+    "file": "Image.png",
+    "before": 164057,
+    "after": 155044,
+    "identical_pixels": true
+  },
+  {
+    "file": "Images.png",
+    "before": 330387,
+    "after": 312419,
+    "identical_pixels": true
+  },
+  {
+    "file": "logo.png",
+    "before": 5419,
+    "after": 5391,
+    "identical_pixels": true
+  },
+  {
+    "file": "logo2.png",
+    "before": 4552,
+    "after": 4201,
+    "identical_pixels": true
+  },
+  {
+    "file": "Quotation.png",
+    "before": 1501,
+    "after": 1418,
+    "identical_pixels": true
+  },
+  {
+    "file": "service1.png",
+    "before": 164056,
+    "after": 155044,
+    "identical_pixels": true
+  },
+  {
+    "file": "service2.png",
+    "before": 3720913,
+    "after": 2847701,
+    "identical_pixels": true
+  },
+  {
+    "file": "service3.png",
+    "before": 87709,
+    "after": 86926,
+    "identical_pixels": true
+  }
+]
